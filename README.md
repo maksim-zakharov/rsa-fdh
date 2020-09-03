@@ -1,6 +1,6 @@
 # RSA-FDH
 
-RSA-FDH is a is provably secure blind-signing signature scheme that uses RSA and a [full domain hash](https://github.com/maksim-zakharov/rsa-fdh).
+RSA-FDH is a is provably secure blind-signing signature scheme that uses RSA and a [full domain hash](https://en.wikipedia.org/wiki/Full_Domain_Hash).
 
 This project implements a regular signature scheme with Full Domain Hash (FDH) padding.
 
@@ -105,6 +105,7 @@ Two signature schemes are supported:
 
 Blinding, unblinding, signing and verification are done in the usual way for RSA.
 
- ## Contributors
+ ## Co-Authors
  
- Maksim Zakharov ([linkedin](https://www.linkedin.com/in/maksim-zakharov/)) ([github](https://github.com/maksim-zakharov)) - Available for hire.
+ Maksim Zakharov ([linkedin](https://www.linkedin.com/in/maksim-zakharov/)) ([github](https://github.com/maksim-zakharov))
+ Oleg Taraskin ([linkedin](https://www.linkedin.com/in/oleg-taraskin-b9a77996/))
