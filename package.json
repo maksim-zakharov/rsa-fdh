@@ -1,6 +1,6 @@
 {
   "name": "rsa-fdh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Full domain hash javascript implementation",
   "main": "demo.js",
   "scripts": {
